@@ -1,0 +1,7 @@
+python-telegram-bot==20.7
+PyMuPDF==1.23.8
+reportlab==4.0.7
+deep-translator==1.11.4
+arabic-reshaper==3.0.0
+python-bidi==0.4.2
+openai==1.12.0
