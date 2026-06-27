@@ -1,1 +1,0 @@
-# DeepTranslateor_bot
